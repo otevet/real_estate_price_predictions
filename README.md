@@ -1,4 +1,4 @@
-# real_estate_price_predictions
+# Real Estate Price Predictions
 Use web scraping and regression to predict pricing for real estate listings from www.estately.com
 
 
